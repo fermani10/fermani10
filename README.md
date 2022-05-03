@@ -1,5 +1,5 @@
 # FacuGlitch
-<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
+<br><p align="center"><b>Contador de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Fermani10}/count.svg"/></p> 
 
 <div align="center">
@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-   <a href="https://telegram.dog/FacuGlitch"><img src="https://img.shields.io/badge/𝑪𝒍𝒊𝒏𝒕𝒐𝒏 𝑨𝒃𝒓𝒂𝒉𝒂𝒎-30302f?style=flat&logo=telegram" alt="telegram badge"/>
-   <a href="https://telegram.dog/botnovedades"><img src="https://img.shields.io/badge/Sᴘᴀᴄᴇ ✗ ʙᴏᴛꜱ-30302f?style=flat&logo=telegram" alt="telegram badge"/>
+   <a href="https://telegram.dog/FacuGlitch"><img src="https://img.shields.io/badge/Facu Glitch-30302f?style=flat&logo=telegram" alt="telegram badge"/>
+   <a href="https://telegram.dog/botnovedades"><img src="https://img.shields.io/badge/Novedades Bots-30302f?style=flat&logo=telegram" alt="telegram badge"/>
 </p>
 
 <div align="center">

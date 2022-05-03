@@ -1,4 +1,3 @@
-# FacuGlitch
 <br><p align="center"><b>Contador de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Fermani10}/count.svg"/></p> 
 

@@ -1,3 +1,4 @@
+![RUN](https://raw.githubusercontent.com/fermani10/fermani10/main/dino.gif)
 <br><p align="center"><b>Contador de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Fermani10}/count.svg"/></p> 
 

@@ -1,4 +1,4 @@
-![RUN](https://raw.githubusercontent.com/fermani10/fermani10/main/dino.gif)
+
 <br><p align="center"><b>Contador de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Fermani10}/count.svg"/></p> 
 
@@ -27,3 +27,4 @@
 
 <a href="https://github.com/Fermani10"><img alt="Facu Glitch Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fermani10&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+![RUN](https://raw.githubusercontent.com/fermani10/fermani10/main/dino.gif)

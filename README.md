@@ -27,4 +27,9 @@
 
 <a href="https://github.com/Fermani10"><img alt="Facu Glitch Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fermani10&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/03c7CMPsbhOnst8swOXRmm?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
 ![RUN](https://raw.githubusercontent.com/fermani10/fermani10/main/dino.gif)
+
+
